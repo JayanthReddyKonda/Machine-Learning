@@ -1,2 +1,2 @@
 # Machine-Learning
-All ML Models using Pure Python
+All ML Models using Python
